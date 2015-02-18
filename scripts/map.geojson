@@ -1,233 +1,1 @@
-var geoJson = [{
-<<<<<<< HEAD
-  "type": "FeatureCollection",
-  "features": [{
-    "type": "Feature",
-    "properties": {
-      "title": "Brandenburg Gate",
-      "marker-size": "medium",
-      "marker-color": "#3366FF",
-      "marker-symbol": "star-stroked",
-      "images": [
-        ['<img src="images/Brandenburger_Tor_abends.jpg" />',
-          "The Brandenburg Gate."
-        ],
-        ['<img src="images/Brandenburger2.jpg" />',
-          "The Brandengurb Gate quadriga at night."
-        ]
-      ]
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "13.377674",
-        "52.516224"
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "title": "Koeningsplatz",
-      "marker-size": "medium",
-      "marker-color": "#e5c278",
-      "marker-symbol": "star-stroked",
-      "images": [
-        [
-          '<iframe width="180"  src="http://www.youtube.com/embed/cklBBshc_uQ?rel=0" frameborder="0" allowfullscreen></iframe>',
-          "A tour of the Reichstag building."
-        ],
-        [
-          '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',
-          "The Reichstag building."
-        ]
-      ]
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "13.376199",
-        "52.517539"
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "title": "Brandengurd Gate",
-      "marker-size": "medium",
-      "marker-color": "#e5c278",
-      "marker-symbol": "star-stroked",
-      "images": [
-        [
-          '<iframe width="180"  src="images/15494565658_56f7ee68aa_q copy.jpg" frameborder="0" allowfullscreen></iframe>',
-          "A tour of the Reichstag building."
-        ],
-        [
-          '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',
-          "The Reichstag building."
-        ]
-      ]
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "13.3777",
-        "52.5163"
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "title": "Koeningsplatz",
-      "marker-size": "medium",
-      "marker-color": "#e5c278",
-      "marker-symbol": "star-stroked",
-      "images": [
-        [
-          '<iframe width="180"  src="http://www.youtube.com/embed/cklBBshc_uQ?rel=0" frameborder="0" allowfullscreen></iframe>',
-          "A tour of the Reichstag building."
-        ],
-        [
-          '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',
-          "The Reichstag building."
-        ]
-      ]
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "13.376199",
-        "52.517539"
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "title": "Reichstag Building",
-      "marker-size": "medium",
-      "marker-color": "#e5c278",
-      "marker-symbol": "star-stroked",
-      "images": [
-        [
-          '<iframe width="180"  src="http://www.youtube.com/embed/85rYMM7mTH0" frameborder="0" allowfullscreen></iframe>',
-          "A tour of the Reichstag Building by VideoVoyage.TV."
-        ],
-        [
-          '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',
-          "The Reichstag building."
-        ]
-      ]
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "13.3760",
-        "52.5186"
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "title": "Kaiser Wilhelm Memorial Church",
-      "marker-size": "medium",
-      "marker-color": "#e5c278",
-      "marker-symbol": "star-stroked",
-      "images": [
-        [
-          '<iframe width="180"  src="http://www.youtube.com/embed/xbe7vwX19KY" frameborder="0" allowfullscreen></iframe>',
-          "A tour of the Kaiser Wilhelm Memorial Church by geobeats."
-        ],
-        [
-          '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',
-          "The Reichstag building."
-        ]
-      ]
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "13.3350",
-        "52.5050"
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "title": "Kaiser Wilhelm Memorial Church",
-      "marker-size": "medium",
-      "marker-color": "#e5c278",
-      "marker-symbol": "star-stroked",
-      "images": [
-        [
-          '<iframe width="180"  src="http://www.youtube.com/embed/xbe7vwX19KY" frameborder="0" allowfullscreen></iframe>',
-          "A tour of the Kaiser Wilhelm Memorial Church by geobeats."
-        ],
-        [
-          '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',
-          "The Reichstag building."
-        ]
-      ]
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "13.3350",
-        "52.5050"
-      ]
-    }
-  },
-]
-}
-]
-=======
-	"type": "FeatureCollection",
-	"features": [{
-		"type": "Feature",
-		"properties": {
-			"title": "Brandenburg Gate",
-			"marker-size": "medium",
-			"marker-color": "#3366FF",
-			"marker-symbol": "star-stroked",
-			"images": [
-				['<img src="images/Brandenburger_Tor_abends.jpg" />',
-					"The Brandenburg Gate."
-				],
-				['<img src="images/Brandenburger2.jpg" />',
-					"The Brandengurb Gate quadriga at night."
-				]
-			]
-		},
-		"geometry": {
-			"type": "Point",
-			"coordinates": [
-				"13.377674",
-				"52.516224"
-			]
-		}
-	}, {
-		"type": "Feature",
-		"properties": {
-			"title": "Koeningsplatz",
-			"marker-size": "medium",
-			"marker-color": "#e5c278",
-			"marker-symbol": "star-stroked",
-			"images": [
-				[
-					'<iframe width="180"  src="http://www.youtube.com/embed/cklBBshc_uQ?rel=0" frameborder="0" allowfullscreen></iframe>',
-					"A tour of the Reichstag building."
-				],
-				[
-					'<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',
-					"The Reichstag building."
-				]
-			]
-		},
-		"geometry": {
-			"type": "Point",
-			"coordinates": [
-				"13.376199",
-				"52.517539"
-			]
-		}
-	}, ]
-}];
->>>>>>> FETCH_HEAD
+var geoJson = [{ "type": "FeatureCollection", "features": [{   "type": "Feature",   "properties": {     "title": "Brandenburg Gate",     "marker-size": "medium",     "marker-color": "#3366FF",     "marker-symbol": "star-stroked",     "images": [       ['<img src="images/Brandenburger_Tor_abends.jpg" />',         "The Brandenburg Gate."       ],       ['<img src="images/Brandenburger2.jpg" />',         "The Brandengurb Gate quadriga at night."       ]     ]   },   "geometry": {     "type": "Point",     "coordinates": [       "13.377674",       "52.516224"     ]   }   }, {     "type": "Feature",     "properties": {       "title": "Koeningsplatz",       "marker-size": "medium",       "marker-color": "#e5c278",       "marker-symbol": "star-stroked",       "images": [         [           '<iframe width="180"  src="http://www.youtube.com/embed/cklBBshc_uQ?rel=0" frameborder="0" allowfullscreen></iframe>',           "A tour of the Reichstag building."         ],         [           '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',           "The Reichstag building."         ]       ]     },     "geometry": {       "type": "Point",       "coordinates": [         "13.376199",         "52.517539"       ]     }     }, {       "type": "Feature",       "properties": {         "title": "Brandengurd Gate",         "marker-size": "medium",         "marker-color": "#e5c278",         "marker-symbol": "star-stroked",         "images": [           [             '<iframe width="180"  src="images/15494565658_56f7ee68aa_q copy.jpg" frameborder="0" allowfullscreen></iframe>',             "A tour of the Reichstag building."           ],           [             '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',             "The Reichstag building."           ]         ]       },       "geometry": {         "type": "Point",         "coordinates": [           "13.3777",           "52.5163"         ]       }       }, {         "type": "Feature",         "properties": {           "title": "Koeningsplatz",           "marker-size": "medium",           "marker-color": "#e5c278",           "marker-symbol": "star-stroked",           "images": [             [               '<iframe width="180"  src="http://www.youtube.com/embed/cklBBshc_uQ?rel=0" frameborder="0" allowfullscreen></iframe>',               "A tour of the Reichstag building."             ],             [               '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',               "The Reichstag building."             ]           ]         },         "geometry": {           "type": "Point",           "coordinates": [             "13.376199",             "52.517539"           ]         }         }, { "type": "Feature", "properties": {   "title": "Reichstag Building",   "marker-size": "medium",   "marker-color": "#e5c278",   "marker-symbol": "star-stroked",   "images": [     [       '<iframe width="180"  src="http://www.youtube.com/embed/85rYMM7mTH0" frameborder="0" allowfullscreen></iframe>',       "A tour of the Reichstag Building by VideoVoyage.TV."     ],     [       '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',       "The Reichstag building."     ]   ] }, "geometry": {   "type": "Point",   "coordinates": [     "13.3760",     "52.5186"   ] }}, {           "type": "Feature",           "properties": {             "title": "Reichstag Building",             "marker-size": "medium",             "marker-color": "#e5c278",             "marker-symbol": "star-stroked",             "images": [               [                 '<iframe width="180"  src="http://www.youtube.com/embed/85rYMM7mTH0" frameborder="0" allowfullscreen></iframe>',                 "A tour of the Reichstag Building by VideoVoyage.TV."               ],               [                 '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',                 "The Reichstag building."               ]             ]           },           "geometry": {             "type": "Point",             "coordinates": [               "13.3760",               "52.5186"             ]           }           }, {             "type": "Feature",             "properties": {               "title": "Kaiser Wilhelm Memorial Church",               "marker-size": "medium",               "marker-color": "#e5c278",               "marker-symbol": "star-stroked",               "images": [                 [                   '<iframe width="180"  src="http://www.youtube.com/embed/xbe7vwX19KY" frameborder="0" allowfullscreen></iframe>',                   "A tour of the Kaiser Wilhelm Memorial Church by geobeats."                 ],                 [                   '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',                   "The Reichstag building."                 ]               ]             },             "geometry": {               "type": "Point",               "coordinates": [                 "13.3350",                 "52.5050"               ]             }             }, {               "type": "Feature",               "properties": {                 "title": "Kaiser Wilhelm Memorial Church",                 "marker-size": "medium",                 "marker-color": "#e5c278",                 "marker-symbol": "star-stroked",                 "images": [                   [                     '<iframe width="180"  src="http://www.youtube.com/embed/xbe7vwX19KY" frameborder="0" allowfullscreen></iframe>',                     "A tour of the Kaiser Wilhelm Memorial Church by geobeats."                   ],                   [                     '<img src="images/Reichstag_building_Berlin_view_from_west_before_sunset.jpg" />',                     "The Reichstag building."                   ]                 ]               },               "geometry": {                 "type": "Point",                 "coordinates": [                   "13.3350",                   "52.5050"                 ]               }             },           ]         }       ]
